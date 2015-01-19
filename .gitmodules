@@ -1,0 +1,3 @@
+[submodule "3rdparty/johnny-five"]
+	path = 3rdparty/johnny-five
+	url = https://github.com/rwaldron/johnny-five.git
